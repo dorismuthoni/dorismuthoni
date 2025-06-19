@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**dorismuthoni/dorismuthoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## TABLE OF CONTENTS
+ - [ABOUT ME](#ABOUT-ME)
+ - [SKILLS](#SKILLS)
+ - [PROJECTS I AM WORKING ON](#PROJECTS-I-AM-WORKING-ON)
+ - [HOW TO REACH ME](#HOW-TO-REACH-ME)
+   ## ABOUT ME 
+I am Doris Muthoni a data enthusiast looking to make a mark in the data science world.
+I’m currently working on perfecting my analysis skils using Excel, SQL, and Tableau
+## SKILLS
 
-Here are some ideas to get you started:
+ 
+  ## HOW TO REACH ME
+- LINKEDIN
+ https://www.linkedin.com/in/doris-muthoni-35311315b
+- EMAIL
+ muthonidoris.w@gmail.com
+- TABLEAU
+  https://public.tableau.com/app/profile/doris.muthoni/vizzes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  > "If we have data, let's look at data. If all we have are opinions, let's go with mine."
+  -JIM BARKSDALE
+
