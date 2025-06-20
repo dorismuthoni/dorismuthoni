@@ -65,8 +65,7 @@ I’m currently working on perfecting my analysis skils using Excel, SQL, Tablea
  https://www.linkedin.com/in/doris-muthoni-35311315b
 - EMAIL
  muthonidoris.w@gmail.com
-- TABLEAU
-  https://public.tableau.com/app/profile/doris.muthoni/vizzes
+
 
 
 
